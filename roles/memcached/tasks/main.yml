@@ -3,4 +3,3 @@
 - name: Hello World
   debug:
     msg: "Hello, World!"
-  when: toggle_message
